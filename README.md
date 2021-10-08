@@ -1,1 +1,1 @@
-A simple command-line application.
+A dart solution of Morris Investment
